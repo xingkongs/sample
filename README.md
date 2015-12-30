@@ -40,3 +40,5 @@
 
 ##简书
 [地址](http://www.jianshu.com/users/fe7e60498141/latest_articles)
+ 
+[jinjie](http://book.jirengu.com/fe/%E5%89%8D%E7%AB%AF%E8%BF%9B%E9%98%B6/) 
