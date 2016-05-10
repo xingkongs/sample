@@ -1,5 +1,6 @@
 ##DOM
 
+
 [代码](./DOM/DOM.html)
 
 ##multi-level-nav
@@ -34,9 +35,17 @@
 
 [代码](./百度首页/baidu.html)
 
-##简历
+##纯html简历
 
 [代码](./简历/我爱罗.html)
+
+##个人简历
+
+[代码](./resume-ld/index.html)
+
+##仿京东
+
+[代码](./仿京东/index.html)
 
 ##简书
 [地址](http://www.jianshu.com/users/fe7e60498141/latest_articles)
